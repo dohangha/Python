@@ -6,7 +6,7 @@ This project allows users to analyse data of given classes. By using _loops_, _s
 
 1. `Open` file
 2. Analyse valid and invalid data
-3. Find `min`, `max`, `mean`, `medium`.
+3. Find `min`, `max`, `mean`, `medium`
 4. `Save` the result
 
 **Result**
