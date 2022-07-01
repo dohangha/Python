@@ -11,4 +11,4 @@ This project allows users to analyse data of given classes. By using _loops_, _s
 
 **Result**
 
-You should find the result in the “class1_grades.txt" document, or if you analyse other class file (ex: class2.txt), you should seacrh for classname_grades.txt (ex: class2_grades.txt, class3_grades.txt). 
+You should find the result in the “class1_grades.txt" document, or if you analyse another class file (ex: class2.txt), you should search for classname_grades.txt (ex: class2_grades.txt, class3_grades.txt). 
