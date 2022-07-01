@@ -1,6 +1,6 @@
 **Project Description**
 
-This project allows users to analyse data of given classes. By using _loops_, _spliting_ and _summarizing_ data, users can know the number of students passing the exam as well as their highest and lowest scores. 
+This project allows users to analyse data of given classes. By using _loops_, _spliting_ and _summarising_ data, users will know exactly the number of students passing the exam as well as their highest and lowest scores. 
 
 **Install**
 
